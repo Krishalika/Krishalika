@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishalika" alt="krishalika" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, MongoDB**
+- 🌱 I’m currently learning **Angular, Spring Boot**
 
 - 📫 How to reach me **krishalikadilanirathnayake@gmail.com**
 
