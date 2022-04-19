@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishalika Rathnayake</h1>
 <h3 align="center">Undergraduate in Computer Science & Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishalika&label=Profile%20views&color=0e75b6&style=flat" alt="krishalika" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishalika&label=Profile%20views&color=0e75b6&style=flat" alt="krishalika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishalika" alt="krishalika" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishalika" alt="krishalika" /></a> </p> -->
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
